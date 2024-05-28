@@ -21,3 +21,6 @@ This project focuses on the comprehensive analysis and visualization of the Beij
    - **Extracting Insights from Maps:** By examining the density of different areas and the characteristics of houses in each region (e.g., presence of elevators, square footage, price), we derived valuable insights about the housing market in Beijing.
 
 Through these steps, we transformed raw housing data into a structured, insightful, and visually appealing analysis, offering a deeper understanding of the Beijing housing market. This project demonstrates effective data cleaning, feature engineering, and the power of visualization in data analysis.
+
+You can find whole project at the below link:
+https://drive.google.com/drive/folders/1a3BNFICnXREB4tH5MJNw_wR6heF5t1XF?usp=drive_link
