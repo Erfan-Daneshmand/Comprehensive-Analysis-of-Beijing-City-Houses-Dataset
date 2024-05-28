@@ -22,5 +22,5 @@ This project focuses on the comprehensive analysis and visualization of the Beij
 
 Through these steps, we transformed raw housing data into a structured, insightful, and visually appealing analysis, offering a deeper understanding of the Beijing housing market. This project demonstrates effective data cleaning, feature engineering, and the power of visualization in data analysis.
 
-You can find whole project at the below link:
+You can find the whole project at the below link:
 https://drive.google.com/drive/folders/1a3BNFICnXREB4tH5MJNw_wR6heF5t1XF?usp=drive_link
