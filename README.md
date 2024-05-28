@@ -1,4 +1,4 @@
-### Project Title: Beijing Housing Data Analysis and Visualization
+### Project Title: Comprehensive Analysis of Beijing City Houses Dataset
 
 #### Project Summary:
 
