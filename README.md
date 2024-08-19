@@ -19,6 +19,10 @@ This project focuses on the comprehensive analysis and visualization of the Beij
 4. **Geospatial Analysis:**
    - **Mapping Houses:** Leveraging the geographical coordinates available in the dataset, we used Matplotlib's scatter function to plot the houses on a map. This visual representation allowed us to analyze various spatial patterns.
    - **Extracting Insights from Maps:** By examining the density of different areas and the characteristics of houses in each region (e.g., presence of elevators, square footage, price), we derived valuable insights about the housing market in Beijing.
+  
+   - ## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 
 Through these steps, we transformed raw housing data into a structured, insightful, and visually appealing analysis, offering a deeper understanding of the Beijing housing market. This project demonstrates effective data cleaning, feature engineering, and the power of visualization in data analysis.
 
